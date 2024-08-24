@@ -1,0 +1,102 @@
+[
+    {
+        "id": "laptop-01",
+        "titulo": "Laptop HP",
+        "imagen": "./assets/image/laptophp1.png",
+        "categoria": {
+            "nombre": "Laptop",
+            "id": "laptop"
+        },
+        "precio": 1199,
+        "descripcion": "Laptop HP 8GB M.2 512GB 15.6' Plata mica 15FB2026LA."
+    },
+    {
+        "id": "laptop-02",
+        "titulo": "Laptop HP",
+        "imagen": "./assets/image/laptophp2.png",
+        "categoria": {
+            "nombre": "laptop",
+            "id": "laptop"
+        },
+        "precio": 1339,
+        "descripcion": "Laptop HP 16GB M.2 512GB 15.6' Azul metalizado 15FA0022LA."
+    },
+    {
+        "id": "laptop-03",
+        "titulo": "Laptop HP",
+        "imagen": "./assets/image/laptophp3.png",
+        "categoria": {
+            "nombre": "Laptop HP",
+            "id": "laptop"
+        },
+        "precio": 819,
+        "descripcion": "Laptop HP 16GB M.2 512GB 15.6' Plateado 15EH3002LA"
+    },
+    {
+        "id": "accesorios-01",
+        "titulo": "Mouse",
+        "imagen": "./assets/image/mouse1.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 16.99,
+        "descripcion": "Mouse Logitech 1000± DPI Rosado 910006862."
+    },
+    {
+        "id": "laptop-04",
+        "titulo": "Laptop ASUS",
+        "imagen": "./assets/image/laptopasus1.png",
+        "categoria": {
+            "nombre": "ZenBook Pro",
+            "id": "laptop"
+        },
+        "precio": 2079,
+        "descripcion": "ASUS ZenBook Pro Duo 15 OLED UX582, 15.6” Intel Core i9, 32GB"
+    },
+    {
+        "id": "laptop-05",
+        "titulo": "Laptop Lenovo",
+        "imagen": "./assets/image/laptoplenovo1.png",
+        "categoria": {
+            "nombre": "IdeaPad",
+            "id": "laptop"
+        },
+        "precio": 1079,
+        "descripcion": "Laptop Lenovo 8GB SSD 512GB 15.6' Gris nube IdeaPad 1 15AMN7"
+    },
+
+    {
+        "id": "accesorios-02",
+        "titulo": "USB",
+        "imagen": "./assets/image/usb1.png",
+        "categoria": {
+            "nombre": "Kingston USB",
+            "id": "accesorios"
+        },
+        "precio": 30.99,
+        "descripcion": "Memoria Kingston 128GB USB 3.1-3.0-2.0"
+    },
+    {
+        "id": "accesorios-03",
+        "titulo": "Audifonos",
+        "imagen": "./assets/image/audifonos1.png",
+        "categoria": {
+            "nombre": "Sony ",
+            "id": "accesorios"
+        },
+        "precio": 112,
+        "descripcion": "Audífono Inalámbrico Sony WH1000XM4LMU Over Ear Azul"
+    },
+    {
+        "id": "accesorios-04",
+        "titulo": "Cable adaptador",
+        "imagen": "./assets/image/cable1.png",
+        "categoria": {
+            "nombre": "Adaptador C",
+            "id": "accesorios"
+        },
+        "precio": 4,
+        "descripcion": "Adaptador Tipo C a USB 3.0 RadioShack 2607086"
+    }
+]
